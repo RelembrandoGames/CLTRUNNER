@@ -1,0 +1,1 @@
+Obj_personagem.Pontos += 300

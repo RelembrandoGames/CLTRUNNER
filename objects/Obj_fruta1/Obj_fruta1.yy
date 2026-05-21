@@ -1,14 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_personagem",
+  "%Name":"Obj_fruta1",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":37,"eventType":9,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":39,"eventType":9,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"Obj_personagem","path":"objects/Obj_personagem/Obj_personagem.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Obj_personagem",
+  "name":"Obj_fruta1",
   "overriddenProperties":[],
   "parent":{
     "name":"Objetos",
@@ -33,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Spr_personagem",
-    "path":"sprites/Spr_personagem/Spr_personagem.yy",
+    "name":"Spr_fruta1",
+    "path":"sprites/Spr_fruta1/Spr_fruta1.yy",
   },
   "spriteMaskId":null,
   "visible":true,

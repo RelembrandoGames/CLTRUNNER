@@ -1,0 +1,1 @@
+global.itemvel = 3
