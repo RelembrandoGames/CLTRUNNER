@@ -48,6 +48,7 @@
     {"id":{"name":"Spr_introducao","path":"sprites/Spr_introducao/Spr_introducao.yy",},},
     {"id":{"name":"Spr_partida","path":"sprites/Spr_partida/Spr_partida.yy",},},
     {"id":{"name":"Spr_perdeu","path":"sprites/Spr_perdeu/Spr_perdeu.yy",},},
+    {"id":{"name":"Spr_perdeu2","path":"sprites/Spr_perdeu2/Spr_perdeu2.yy",},},
     {"id":{"name":"Spr_personagem","path":"sprites/Spr_personagem/Spr_personagem.yy",},},
   ],
   "resourceType":"GMProject",

@@ -1,4 +1,4 @@
-show_debug_message(x)
+//show_debug_message(x)
 
 global.itemvel += 0.004
 
