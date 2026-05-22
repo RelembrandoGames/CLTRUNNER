@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Spr_fruta1",
-    "path":"sprites/Spr_fruta1/Spr_fruta1.yy",
+    "name":"Spr_droga1",
+    "path":"sprites/Spr_droga1/Spr_droga1.yy",
   },
   "spriteMaskId":null,
   "visible":true,

@@ -1,1 +1,1 @@
-Pontos = 0
+velfundo = 4

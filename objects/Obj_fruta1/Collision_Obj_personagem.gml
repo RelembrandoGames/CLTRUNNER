@@ -1,1 +1,3 @@
-Obj_personagem.Pontos += 100
+global.pontuacao += 100
+
+instance_destroy()
