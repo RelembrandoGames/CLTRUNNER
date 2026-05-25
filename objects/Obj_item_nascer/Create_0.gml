@@ -2,4 +2,4 @@ randomise()
 
 alarm[0] = room_speed * 1
 
-xx = 512
+xx = 448
